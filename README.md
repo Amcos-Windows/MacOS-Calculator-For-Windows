@@ -1,2 +1,50 @@
-# MacOS-Calculator-For-Windows
-macOS Calculator for Windows brings Apple’s sleek aesthetic to your PC. Replicating the authentic dark layout with vibrant orange operators, it includes workflow tweaks like a dedicated 00 key, backspace shortcut, and parenthesis support. A pixel-perfect, minimalist utility for smooth, distraction-free desktop arithmetic.
+<p align="center">
+  <img src="assets/icon.png" alt="macOS Calculator Icon" width="128" height="128">
+</p>
+
+<h1 align="center">macOS Calculator for Windows</h1>
+
+<p align="center">
+  A sleek, lightweight desktop arithmetic utility that brings the premium, minimalist aesthetic of Apple's macOS Calculator straight to your Windows PC.
+</p>
+
+<p align="center">
+  This application is distributed as <strong>closed-source freeware</strong>—offering a completely free, pre-compiled standalone executable without any bloatware, ads, or tracking.
+</p>
+
+---
+
+## ✨ Features
+
+* **Authentic macOS UI:** Enjoy the iconic dark interface, rounded layout buttons, and high-contrast orange operator keys.
+* **Pure Click Interface:** Designed entirely for direct mouse or touch interaction. Operation relies strictly on the on-screen buttons, completely preventing accidental inputs from keyboard misclicks.
+* **Enhanced Key Layout:** Optimized with custom productivity buttons directly on the interface:
+  * **Dedicated `00` Key:** Engineered for faster financial entry and large-number inputs.
+  * **Visual `<-` Backspace:** Quickly erase single digits without clearing your entire calculation progress.
+  * **Parenthesis Support:** Easily manage basic equation grouping visually on the screen.
+* **Standalone Portability:** Run the executable directly without bloat or messy system installation folders.
+
+---
+
+## 💻 System Requirements
+
+* **Operating System:** Windows 10 or Windows 11 (64-bit)
+* **Prerequisites:** .NET Desktop Runtime (Built-in and pre-installed on modern Windows updates)
+* **Storage:** Less than 50 MB of free disk space
+
+---
+
+## 🚀 Installation & Usage
+
+1. Download the latest **`macOS_Calculator.exe`** from the official release link.
+2. Double-click the downloaded executable to launch the calculator instantly.
+3. *Optional:* Right-click the open icon on your taskbar and select **"Pin to taskbar"** for one-click access anytime.
+
+---
+
+## 📄 License & Terms
+
+This software is provided as **Freeware**. You are free to download, use, and redistribute the compiled binary file for personal or commercial use. The underlying source code is proprietary and closed-source. 
+
+***
+<p align="center"><em>Developed with C# for native Windows optimization.</em></p>
