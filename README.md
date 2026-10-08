@@ -5,11 +5,11 @@
 <h1 align="center">macOS Calculator for Windows</h1>
 
 <p align="center">
-  A sleek, lightweight desktop arithmetic utility that brings the premium, minimalist aesthetic of Apple's macOS Calculator straight to your Windows PC.
+  A clean, lightweight calculator that brings the exact minimalist look and feel of Apple's macOS Calculator straight to Windows. 
 </p>
 
 <p align="center">
-  This application is distributed as <strong>closed-source freeware</strong>—offering a completely free, pre-compiled standalone executable without any bloatware, ads, or tracking.
+  Completely free, standalone, and closed-source—no bloatware, no ads, and no tracking. Just launch it and go.
 </p>
 
 ---
@@ -24,36 +24,37 @@
 
 ## ✨ Features
 
-* **Authentic macOS UI:** Enjoy the iconic dark interface, rounded layout buttons, and high-contrast orange operator keys.
-* **Pure Click Interface:** Designed entirely for direct mouse or touch interaction. Operation relies strictly on the on-screen buttons, completely preventing accidental inputs from keyboard misclicks.
-* **Enhanced Key Layout:** Optimized with custom productivity buttons directly on the interface:
-  * **Dedicated `00` Key:** Engineered for faster financial entry and large-number inputs.
-  * **Visual `<-` Backspace:** Quickly erase single digits without clearing your entire calculation progress.
-  * **Parenthesis Support:** Easily manage basic equation grouping visually on the screen.
-* **Standalone Portability:** Run the executable directly without bloat or messy system installation folders.
+* **True macOS Look:** Features the exact dark interface, rounded buttons, and high-contrast orange operators you know and love.
+* **Mistype-Proof & Distraction-Free:** Built entirely for mouse and touch inputs. It runs completely independent of your background typing, meaning you'll never have to worry about accidental calculation inputs or ghost numbers when bouncing between multiple active windows.
+* **Made for Multitasking:** Perfect for keeping open on the side while you work, or for quick taps on touchscreen Windows devices without interrupting your main workflow.
+* **Quality of Life Tweaks:** Adds a few extra productivity layout upgrades:
+  * **Dedicated `00` Key:** Great for fast data entry and financial math.
+  * **Visual `<-` Backspace:** Quickly erase single digits without having to clear your entire progress.
+  * **Parenthesis Support:** Manage basic formula grouping cleanly right on the screen.
+* **Zero Setup Required:** Run the standalone `.exe` instantly. No messy installation folders, registry clutter, or background services.
 
 ---
 
 ## 💻 System Requirements
 
 * **Operating System:** Windows 10 or Windows 11 (64-bit)
-* **Prerequisites:** .NET Desktop Runtime (Built-in and pre-installed on modern Windows updates)
-* **Storage:** Less than 50 MB of free disk space
+* **Prerequisites:** .NET Desktop Runtime (Already pre-installed on most modern Windows PCs)
+* **Storage:** Less than 50 MB
 
 ---
 
 ## 🚀 Download & Usage
 
-1. Go to the [Official V1.0.0 Stable Release Page](https://github.com/Amcos-Windows/MacOS-Calculator-For-Windows/releases/tag/V1.0.0).
-2. Under the **Assets** section, click on **`Calculator.exe`** to download it.
-3. Double-click the downloaded file to launch the calculator instantly.
-4. *Optional:* Right-click the open icon on your taskbar and select **"Pin to taskbar"** for one-click access anytime.
+1. Head over to the [Official V1.0.0 Stable Release Page](https://github.com).
+2. Download **`Calculator.exe`** from the Assets section.
+3. Double-click the file to open it right up.
+4. *Tip:* Right-click the app icon on your taskbar and hit **"Pin to taskbar"** so it's always one click away.
 
 ---
 
 ## 📄 License & Terms
 
-This software is provided as **Freeware**. You are free to download, use, and redistribute the compiled binary file for personal or commercial use. The underlying source code is proprietary and closed-source. 
+This app is shared as free software. You're completely free to download, use, and share the compiled app for personal or commercial use. The underlying code is private and closed-source.
 
 ***
-<p align="center"><em>Developed with C# for native Windows optimization.</em></p>
+<p align="center"><em>Built natively with C# for Windows.</em></p>
