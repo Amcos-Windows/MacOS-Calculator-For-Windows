@@ -25,7 +25,7 @@
 ## Testing
 
 <p align="center">
-  <img src="assets/test.mp4" alt="macOS Calculator for Windows Preview Screenshot" width="350">
+  <img src="assets/test.gif" alt="macOS Calculator for Windows Preview Screenshot" width="350">
 </p>
 
 ---
