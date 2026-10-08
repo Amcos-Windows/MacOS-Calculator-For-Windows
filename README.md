@@ -14,6 +14,14 @@
 
 ---
 
+## 📸 Preview
+
+<p align="center">
+  <img src="assets/preview.png" alt="macOS Calculator for Windows Preview Screenshot" width="350">
+</p>
+
+---
+
 ## ✨ Features
 
 * **Authentic macOS UI:** Enjoy the iconic dark interface, rounded layout buttons, and high-contrast orange operator keys.
@@ -34,11 +42,12 @@
 
 ---
 
-## 🚀 Installation & Usage
+## 🚀 Download & Usage
 
-1. Download the latest **`macOS_Calculator.exe`** from the official release link.
-2. Double-click the downloaded executable to launch the calculator instantly.
-3. *Optional:* Right-click the open icon on your taskbar and select **"Pin to taskbar"** for one-click access anytime.
+1. Go to the [Official V1.0.0 Stable Release Page](https://github.com).
+2. Under the **Assets** section, click on **`Calculator.exe`** to download it.
+3. Double-click the downloaded file to launch the calculator instantly.
+4. *Optional:* Right-click the open icon on your taskbar and select **"Pin to taskbar"** for one-click access anytime.
 
 ---
 
