@@ -22,6 +22,14 @@
 
 ---
 
+## Testing
+
+<p align="center">
+  <img src="assets/test.mp4" alt="macOS Calculator for Windows Preview Screenshot" width="350">
+</p>
+
+---
+
 ## ✨ Features
 
 * **True macOS Look:** Features the exact dark interface, rounded buttons, and high-contrast orange operators you know and love.
