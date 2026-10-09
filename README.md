@@ -53,8 +53,8 @@
 
 ## 🚀 Download & Usage
 
-1. Head over to the [Official V1.0.0 Stable Release Page](https://github.com).
-2. Download **`Calculator.exe`** from the Assets section.
+1. Head over to the [Official V1.0.0 Release Page](https://github.com/Amcos-Windows/MacOS-Calculator-For-Windows/releases/tag/Calculator).
+2. Download **`Macos_Calculator.exe`** from the Assets section.
 3. Double-click the file to open it right up.
 4. *Tip:* Right-click the app icon on your taskbar and hit **"Pin to taskbar"** so it's always one click away.
 
